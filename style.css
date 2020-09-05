@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container
+{
+    max-width: 80%;
+    background-color: #E4F9F5;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header
+{
+
+}
+
+.profile-image
+{
+    width: 100px;
+    height: 120px;
+    border: 3px solid salmon;
+    border-radius: 50%;
+    float: left;
+}
+
+.header-bio
+{
+    float: left;
+    padding: 30px;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    color: #11999e;
+}
+
+.header-contact
+{
+    float: right;
+    padding: 30px;
+}
+
+.header-contact a:hover
+{
+   text-decoration: wavy;
+    color: tomato;
+}
+
+.clear-div
+{
+    clear: both;
+}
+
+hr
+{
+    border: solid tomato 2px;
+    margin: 15px;
+    border-bottom: none;
+}
+
+#personal-section
+{
+   
+}
+
+.content
+{
+    margin-bottom: 30px;
+
+}
+
+.left-div
+{
+    width: 30%;
+    float: left;
+}
+
+.right-div
+{
+    width: 70%;
+    float: right;
+}
+
+.common-hr
+{
+    border: solid tomato 2px;
+    border-bottom: none;
+    margin: 15px;
+}
+
+.edu-left
+{
+    float: left;
+    width: 45%;
+}
+
+.edu-right
+{
+    float: right;
+    width: 45%;
+}
+
+.footer
+{
+    background-color: tomato;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer a
+{
+    color: whitesmoke;
+    margin: 20px;
+    text-decoration: none;
+}
